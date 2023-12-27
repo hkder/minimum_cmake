@@ -1,1 +1,1 @@
-./build/src/minimum
+./build/src/sqlite
